@@ -1,0 +1,39 @@
+{% if author.hackthebox %}
+<li>
+  <a href="https://app.hackthebox.eu/profile/{{ author.hackthebox }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <img class="icon_custom" src="/assets/images/hackthebox.webp" aria-hidden="true"></img> Hack The Box
+  </a>
+</li>
+{% endif %}
+
+{% if author.tryhackme %}
+<li>
+  <a href="https://tryhackme.com/p/{{ author.tryhackme }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <img class="icon_custom" src="/assets/images/tryhackme.png" aria-hidden="true"></img> Try Hack Me
+  </a>
+</li>
+{% endif %}
+
+{% if author.medium %}
+<li>
+  <a href="https://medium.com/@{{ author.medium }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <img class="icon_custom" src="/assets/images/medium.svg" aria-hidden="true"></img> Medium
+  </a>
+</li>
+{% endif %}
+
+{% if author.exploitdb %}
+<li>
+  <a href="https://www.exploit-db.com/?author={{ author.exploitdb }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <img class="icon_custom" src="/assets/images/spider.svg" aria-hidden="true"></img> ExploitDB
+  </a>
+</li>
+{% endif %}
+
+{% if author.0day %}
+<li>
+  <a href="https://0day.today/author/{{ author.0day }}" target="_blank" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <img class="icon_custom" src="/assets/images/worm.svg" aria-hidden="true"></img> 0day
+  </a>
+</li>
+{% endif %}
