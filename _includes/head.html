@@ -5,7 +5,7 @@
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 {% if page.header.teaser %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.header.teaser }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.header.teaser }}" />
 {% endif %}
 
 <meta property="og:description" content="{{ page.subtitle }}" />
