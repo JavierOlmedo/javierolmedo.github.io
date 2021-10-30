@@ -50,5 +50,3 @@ layout: whoami
             <img src="https://www.hackthebox.eu/badge/image/37005">
         </a>
     </div>
-
-## <a href="#" style="cursor: pointer;" onclick="get_matrix()">Enter the Matrix</a>

@@ -5,8 +5,6 @@ main:
     sublinks:
       - title: Hack The Box
         url:  /hackthebox
-      - title: Try Hack Me
-        url:  /tryhackme
       - title: Burp Suite
         url:  /burpsuite
   - title: "Projects"
