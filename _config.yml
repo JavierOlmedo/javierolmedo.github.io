@@ -7,11 +7,7 @@ locale                   : "en-US"
 title                    : "Javier Olmedo's Blog"
 title_separator          : "|"
 name                     : "Javier Olmedo"
-<<<<<<< HEAD
 description              : "OSWE | Cybersecurity enthusiast and CTF Player"
-=======
-description              : "Javier Olmedo's Github Page"
->>>>>>> main
 url                      : "https://javierolmedo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "JavierOlmedo/javierolmedo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
