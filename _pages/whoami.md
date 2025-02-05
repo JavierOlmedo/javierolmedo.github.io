@@ -1,7 +1,7 @@
 ---
 title: "Whoami"
 permalink: /whoami
-date: 2021-10-22
+date: 2025-02-05
 layout: whoami
 ---
 
@@ -12,9 +12,9 @@ layout: whoami
     "Personal_Info":{
         "Name": "Javier",
         "Last Name": "Olmedo",
-        "Age": 34,
-        "Education": "Software Development and SysAdmin",
-        "Email": "amF2aWVyb2xtZWRvQGhhY2twdW50ZXMuY29t",
+        "Age": 38,
+        "Education": "Pentester",
+        "Email": "javierolmedo@hackpuntes.com",
         "Interests":[
             "Cybersecurity, DevOps, Ethical Hacking, Red Teaming",
         ],
