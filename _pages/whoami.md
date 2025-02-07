@@ -39,8 +39,9 @@ layout: whoami
 
 ## Certifications
 
-- [CNSS](https://www.credential.net/ccca6121-5126-4eb4-b85e-618d3e9d668b) | Certified Network Security Specialist
-- [Lifelong Learning](https://www.credly.com/badges/307a752e-267a-49a4-a853-54c26e272502)
+- [Certified Network Security Specialist - CNSS](https://www.credential.net/ccca6121-5126-4eb4-b85e-618d3e9d668b)
+- [OSCP](https://www.credential.net/4e346191-179b-4063-89ed-2b5a197ff07f)
+- [OSWE](https://www.credly.com/badges/818636d7-b447-42be-8f4f-cde81c44e26f)
 
 ## CTF Profiles
 
