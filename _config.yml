@@ -1,5 +1,5 @@
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
+remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -102,7 +102,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "JavierOlmedo"
+  #github           : "JavierOlmedo"
   gitlab           :
   google_plus      :
   keybase          : 
@@ -120,7 +120,7 @@ author:
   xing             : 
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   hackthebox       :  "37005"
-  #tryhackme        :  "JavierOlmedo"
+  tryhackme        :  "JavierOlmedo"
   exploitdb        :  "9580"
   0day             :  "33736"
   medium           :  "javierolmedo"
